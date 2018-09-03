@@ -4,14 +4,14 @@ This is just a basic recipe for a vegetarian red Thai curry that can be expanded
 
 ## Ingredients
 
-* 1 can Coconut milk
-* 2 tablespoons Red curry paste (from the Thai shop)
+* 1 can Coconut Milk
+* 2 tablespoons Red Curry Paste (from the Thai shop)
 * 3 portions Vegetables to your liking
 * 1 teaspoon Fishsauce
-* 1/2 teaspoon Palm sugar
-* 1 tablespoon Vegetable oil (I usually use rapeseed oil)
+* 1/2 teaspoon Palm Sugar
+* 1 tablespoon Vegetable Oil (I usually use rapeseed oil)
+* 1 handful of Cashews or Peanuts (unroasted, unsalted)
 * a few branches Thai Basil
-* 1 handful of Cashews or peanuts (unroasted, unsalted)
 
 
 ## Preparation
@@ -21,5 +21,5 @@ This is just a basic recipe for a vegetarian red Thai curry that can be expanded
 3. Gradually add the coconut milk while stirring, so that no lumps of the paste remain.
 4. Add fishsauce and palm sugar to taste, let the curry come to a boil, lower the heat and cover the wok with a lid.
 5. Sequentially add vegetables to the covered wok according to their needed time. For example, let potatoes boil for 5 minutes and then add broccoli and cook for another 5 minutes, so that none of them overcook.
-6. Add thai basil and nuts, serve with Jasmin rice.
+6. Add Thai basil and nuts, serve with Jasmin rice.
 
