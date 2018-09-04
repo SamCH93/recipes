@@ -2,7 +2,7 @@
 A tasty dish from the Middle East, many versions exist, but I usually cook it with eggs and chickpeas.
 	
 
-# Ingredients
+## Ingredients
 
 * 1 can Tomatoes, minced and peeled
 * 3 Eggs, medium size
@@ -20,7 +20,7 @@ A tasty dish from the Middle East, many versions exist, but I usually cook it wi
 * a few branches Italian Parsley (can be replace by Coriander)
 
 
-# Preparation
+## Preparation
 1. Wash bellpepper and parsley. Finely chop the garlic, onions, and bellpepper. Crush the cumin seeds in a mortar and mix with the other dry spices. 
 2. Heat the oil to medium-high heat, fry the onions for a while, then add bellpepper and garlic. Add the spices while stiring constantly and roast for one minute. 
 3. Add the tomatoes, harissa, and tomato paste, season to taste with salt and pepper. Let it come to a boil, reduce the heat and cover with a lid. 
