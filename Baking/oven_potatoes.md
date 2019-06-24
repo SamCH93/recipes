@@ -17,5 +17,5 @@ A tasty side dish.
 
 1. Wash potatoes, rosemary, and thyme. Preheat oven to 190°C (upper and lower heat).
 2. Cut potatoes into longish quarters and put them into a large bowl. Add leafy parts of the thyme and rosemary branches and olive oil. Salt and pepper to taste and mix well.
-3. Put on a baking tray covred with baking paper. Bake for around 40 minutes. 
+3. Put on a baking tray covered with baking paper. Bake for around 40 minutes. 
 
