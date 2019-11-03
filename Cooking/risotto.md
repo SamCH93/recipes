@@ -11,8 +11,8 @@ My own vegetable risotto recipe.
 * 2 Onions, middlesized 
 * 2 Garlic cloves
 * Broth (I usually use vegetable broth)
-* White wine to taste (I use about 3dl)
-* Grated parmesan to taste
+* White Wine to taste (I use about 3dl)
+* Grated Parmesan to taste
 * Salt and Pepper to taste
 
 
