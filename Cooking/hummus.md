@@ -1,5 +1,5 @@
 # Hummus
-
+My version of Hummus.
 
 ## Ingredients
 
@@ -8,6 +8,7 @@
 * 2 Garlic Cloves
 * 1 tablespoon Olive Oil
 * 1 teaspoon Cumin seeds
+* 1/2 teaspoon Sumach
 * 2 teaspoons Lemon Juice, freshly pressed
 
 

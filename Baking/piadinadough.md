@@ -1,4 +1,4 @@
-# Pizza dough
+# Piadina dough
 Enough dough for five piadinas.
 
 ## Ingredients

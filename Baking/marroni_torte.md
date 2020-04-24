@@ -1,7 +1,7 @@
 # My Marroni Torte
 The perfect torte for cold fall Sundays.
 
-## Ingreditents
+## Ingredients
 
 * 100g Butter, soft
 * 150g Sugar Powder

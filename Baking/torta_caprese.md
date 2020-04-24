@@ -2,7 +2,7 @@
 A delicious and easy to prepare torte without flour.
 
 
-## Ingreditents  
+## Ingredients  
 
 * 200g Butter
 * 200g Chocolate (70% cocoa)
