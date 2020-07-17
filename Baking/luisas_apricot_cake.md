@@ -1,7 +1,13 @@
-Luisa's Apricot Cake
+# Luisa's Apricot Cake
 
-Base recipe
-For each egg: 50g sugar, 50g room-temperature butter, 50g flour.
+## Ingredients
+
+for each egg add
+* 50g Sugar
+* 50g room-temperature Butter
+* 50g Flour
+
+## Preparation
 
 1. Whisk eggs + sugar for approximately 5 minutes.
 2. Add soft butter, whisk again.
