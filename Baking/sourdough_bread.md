@@ -39,8 +39,9 @@ medium (~700g) sized boule.
    and let rest in warm environment.
 
 4. *Bulk fermentation*: Perform 4 to 6 stretch and folds until the dough is
-    almost double the size. Let the dough rest 30 minutes between the first 3
-    folds, let it rest 60 minutes between the last ones.
+    almost double the size and you can see bubbles at the top. Let the dough
+    rest 30 minutes between the first 3 folds, let it rest 60 minutes between
+    the last ones.
     
 5. *Shaping*: Divide into two parts and preshape. Let rest for 15 minutes. Shape
     into preferred shape afterwards and pot into flourd proofing basket. It is
